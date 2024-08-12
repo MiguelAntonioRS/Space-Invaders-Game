@@ -32,3 +32,20 @@ mvn clean install
 ```
 java -cp bin com.spaceGameShip.Main
 ```
+
+### Project Structure
+
+    src/com/spaceGameShip/: Contains the main game classes.
+        Main.java: Main class that starts the game.
+        States/: Contains the classes representing different game states.
+        Graphics/: Manages graphics and text loading.
+        ui/: Contains the Button class and Action interface.
+        input/: Handles keyboard and mouse input.
+        math/: Auxiliary math classes.
+        io/: Handles data input/output (e.g., scores).
+        gameObject/: Defines game constants and objects.
+
+### Controls
+
+    Arrow Keys: Move the spaceship.
+    P: Shoot.
