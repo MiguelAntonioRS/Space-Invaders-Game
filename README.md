@@ -49,3 +49,7 @@ java -cp bin com.spaceGameShip.Main
 
  * Arrow Keys: Move the spaceship.
  * P: Shoot.
+
+### Contributions
+
+Contributions are welcome. Please open an issue or submit a pull request to collaborate on the project.
