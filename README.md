@@ -47,5 +47,5 @@ java -cp bin com.spaceGameShip.Main
 
 ### Controls
 
-    Arrow Keys: Move the spaceship.
-    P: Shoot.
+ * Arrow Keys: Move the spaceship.
+ * P: Shoot.
