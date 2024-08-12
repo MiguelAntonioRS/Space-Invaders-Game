@@ -9,3 +9,26 @@ Space Ship Game is a 2D space shooter game developed in Java. Players can naviga
     Java JDK 17 or higher
     Maven (optional, for dependency management)
     An IDE (e.g., IntelliJ IDEA, Eclipse)
+
+### Installation
+    
+  Clone the repository:
+```bash    
+git clone https://github.com/your_username/space-ship-game.git
+cd space-ship-game
+```
+### Compile the project:
+
+Make sure the JDK is configured in your PATH.
+```
+javac -d bin src/com/spaceGameShip/*.java src/com/spaceGameShip/Graphics/*.java src/com/spaceGameShip/State/*.java src/com/spaceGameShip/ui/*.java src/com/spaceGameShip/input/*.java src/com/spaceGameShip/math/*.java src/com/spaceGameShip/io/*.java src/com/spaceGameShip/gameObject/*.java
+```
+If you're using Maven, simply run:
+```
+mvn clean install
+```
+
+### Run the game:
+```
+java -cp bin com.spaceGameShip.Main
+```
