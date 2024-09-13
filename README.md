@@ -1,4 +1,4 @@
-# Space Ship Game
+# Space Ship Game.
 
 ## Description 
 
