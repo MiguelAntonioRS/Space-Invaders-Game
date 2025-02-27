@@ -18,7 +18,7 @@ git clone https://github.com/MiguelAntonioRS/Space-Invaders-Game.git
 cd space-ship-game 
 ```
 ### Compile the project:
-
+ 
 Make sure the JDK is configured in your PATH. 
 ```
 javac -d bin src/com/spaceGameShip/*.java src/com/spaceGameShip/Graphics/*.java src/com/spaceGameShip/State/*.java src/com/spaceGameShip/ui/*.java src/com/spaceGameShip/input/*.java src/com/spaceGameShip/math/*.java src/com/spaceGameShip/io/*.java src/com/spaceGameShip/gameObject/*.java
