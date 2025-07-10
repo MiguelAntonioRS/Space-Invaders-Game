@@ -10,7 +10,7 @@ Space Ship Game is a 2D space shooter game developed in Java. Players can naviga
     Maven (optional, for dependency management)
     An IDE (e.g., IntelliJ IDEA, Eclipse)
 
-### Installation 
+### Installation
     
   Clone the repository: 
 ```bash
