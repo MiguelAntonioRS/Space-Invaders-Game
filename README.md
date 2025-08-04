@@ -12,7 +12,7 @@ Space Ship Game is a 2D space shooter game developed in Java. Players can naviga
 
 ### Installation
 
-  Clone the repository: 
+  Clone the repository:
 ```bash
 git clone https://github.com/MiguelAntonioRS/Space-Invaders-Game.git
 cd space-ship-game
