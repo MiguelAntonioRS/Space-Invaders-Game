@@ -1,6 +1,5 @@
 package com.spaceGameShip.Graphics;
 import com.spaceGameShip.math.Vector2D;
-
 import java.awt.image.BufferedImage;
 
 public class Animation {
